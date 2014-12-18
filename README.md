@@ -1,4 +1,4 @@
 hello_world
 ===========
 
-Learn github
+Learn  github. This awesome!
